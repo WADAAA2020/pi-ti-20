@@ -15,8 +15,8 @@
         <p>Deseja confirmar a nova compra?</p>
 
         <form method="post" action="processar_compra.php">
-            <button class="button" type="submit" name="acao" value="confirmar">Sim</button>
-            <button class="button" type="submit" name="acao" value="cancelar">Não</button>
+            <button a class="button" type="submit" name="acao" value="confirmar"><a href="#"></a>Sim</button>
+            <button class="button" type="submit" name="acao" value="cancelar"><a href="#"></a>Não</button>
         </form>
     </div>
 
